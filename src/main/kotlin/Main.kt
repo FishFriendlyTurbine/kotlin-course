@@ -6,7 +6,7 @@ fun main() {
     val name = "Fish"
     //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
     // to see how IntelliJ IDEA suggests fixing it.
-    println("Godd luck, " + name + "!")
+    println("Well Well Well, " + name + "!")
 
     for (i in 1..10) {
         //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
